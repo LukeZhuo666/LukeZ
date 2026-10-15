@@ -19,3 +19,4 @@
 .pet-tail{position:absolute;z-index:1;right:15px;top:122px;width:100px;height:85px;border:20px solid #17171d;border-left:0;border-bottom:0;border-radius:0 80px 0 0;transform:rotate(20deg)}
 .pet-ground{position:absolute;left:20px;right:20px;bottom:0;height:28px;border-radius:50%;background:#e6a75033;filter:blur(8px)}
 @media(max-width:620px){.vinyl-stage{width:64%}.pet-illustration{transform:translate(-50%,-50%) scale(.87)}.pet-card:hover .pet-illustration{transform:translate(-50%,-54%) scale(.87)}}
+@media(max-width:620px){.vinyl-label{font-size:15px;letter-spacing:-.08em}}
