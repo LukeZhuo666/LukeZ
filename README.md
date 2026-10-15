@@ -6,11 +6,11 @@
 
 | 作品 | 方向 | 项目主页 |
 | --- | --- | --- |
-| B-SIDE | 音乐视频收藏与个性化发现 | [项目主页](https://github.com/LukeZhuo666/LukeZ-B-SIDE) |
-| Fut.Map | 足球地图与空间叙事 | [项目主页](https://github.com/LukeZhuo666/LukeZ-Fut-Map) |
-| BugPet | 桌面宠物与专注体验 | [项目主页](https://github.com/LukeZhuo666/LukeZ-BugPet) |
-| PROMPT_PILOT | AI 提示词工作流 | [项目主页](https://github.com/LukeZhuo666/LukeZ-Prompt-Pilot) |
-| CityScope | 多主体决策与因果推演 | [项目主页](https://github.com/LukeZhuo666/LukeZ-CityScope) |
+| B-SIDE｜私人音乐发现系统 | 音乐视频收藏与个性化发现 | [项目主页](https://github.com/LukeZhuo666/LukeZ-B-SIDE) |
+| Fut.Map｜全球足球探索地图 | 足球地图与空间叙事 | [项目主页](https://github.com/LukeZhuo666/LukeZ-Fut-Map) |
+| BugPet｜专注陪伴桌面宠物 | 桌面宠物与专注体验 | [项目主页](https://github.com/LukeZhuo666/LukeZ-BugPet) |
+| Prompt Pilot｜AI 提示词工作台 | AI 提示词工作流 | [项目主页](https://github.com/LukeZhuo666/LukeZ-Prompt-Pilot) |
+| CityScope｜双城产业决策沙盘 | 多主体决策与因果推演 | [项目主页](https://github.com/LukeZhuo666/LukeZ-CityScope) |
 
 ## 在线作品集
 
