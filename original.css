@@ -1,0 +1,21 @@
+/* Original portfolio-only illustrations. No source-project images. */
+.vinyl-stage{position:relative;z-index:1;width:min(68%,430px);aspect-ratio:1;transform:rotate(-14deg);transition:transform .6s;filter:drop-shadow(30px 40px 30px #0009)}
+.feature:hover .vinyl-stage{transform:rotate(-5deg) scale(1.04)}
+.vinyl-stage:before{content:"";position:absolute;inset:-22px;border:1px solid #d8b9ff50;transform:rotate(12deg);box-shadow:0 0 45px #a277e044}
+.vinyl{position:absolute;inset:0;border-radius:50%;background:repeating-radial-gradient(circle at center,transparent 0 7px,#c9c9df12 8px 9px,transparent 10px 16px),conic-gradient(from 30deg,#0b0d14,#282735,#100e16,#3a344c,#0b0d14,#242631,#0b0d14);border:2px solid #777486;box-shadow:inset 0 0 0 18px #0a0b10,inset 0 0 0 20px #828092,inset 0 0 65px #000,0 0 45px #cab3fa33}
+.vinyl:before{content:"";position:absolute;inset:22%;border-radius:50%;background:radial-gradient(circle at 35% 30%,#f5d9ff,#baa4e1 40%,#5c446c 82%);box-shadow:0 0 0 12px #0b0b12,0 0 0 15px #b4adbd}
+.vinyl:after{content:"";position:absolute;left:50%;top:50%;width:9px;height:9px;transform:translate(-50%,-50%);border-radius:50%;background:#13121b;z-index:3}
+.vinyl-label{position:absolute;z-index:2;inset:31%;display:flex;align-items:center;justify-content:center;font-size:clamp(19px,3vw,42px);letter-spacing:-.08em;font-weight:700;color:#1b1122;transform:rotate(14deg)}
+.vinyl-label span{color:#f5edf9;margin:0 2px}
+.pet-illustration{position:absolute;left:50%;top:47%;transform:translate(-50%,-50%);width:255px;height:245px;filter:drop-shadow(0 20px 25px #0009);transition:transform .3s}
+.pet-card:hover .pet-illustration{transform:translate(-50%,-54%) rotate(-3deg)}
+.pet-head{position:absolute;z-index:3;left:53px;top:17px;width:155px;height:142px;background:#16161c;border-radius:44% 44% 42% 42%;border:4px solid #34303a;box-shadow:inset -18px -16px 0 #0d0e13}
+.pet-head .ear{position:absolute;z-index:-1;top:-39px;width:66px;height:75px;background:#16161c;border:4px solid #34303a;transform:rotate(-18deg);clip-path:polygon(10% 95%,25% 0,100% 80%)}
+.pet-head .ear.left{left:-4px}.pet-head .ear.right{right:-4px;transform:scaleX(-1) rotate(-18deg)}
+.pet-head .eye{position:absolute;top:58px;width:22px;height:35px;background:#e8f068;border-radius:45%;box-shadow:0 0 12px #f1ec6d88}
+.pet-head .eye.left{left:37px}.pet-head .eye.right{right:37px}
+.pet-head .nose{position:absolute;left:50%;top:100px;transform:translateX(-50%);width:12px;height:9px;background:#e7b296;clip-path:polygon(0 0,100% 0,50% 100%)}
+.pet-body{position:absolute;left:77px;top:118px;width:110px;height:113px;background:#17171d;border:4px solid #34303a;border-radius:48% 48% 20% 20%;box-shadow:inset -17px -10px 0 #0d0e13}
+.pet-tail{position:absolute;z-index:1;right:15px;top:122px;width:100px;height:85px;border:20px solid #17171d;border-left:0;border-bottom:0;border-radius:0 80px 0 0;transform:rotate(20deg)}
+.pet-ground{position:absolute;left:20px;right:20px;bottom:0;height:28px;border-radius:50%;background:#e6a75033;filter:blur(8px)}
+@media(max-width:620px){.vinyl-stage{width:64%}.pet-illustration{transform:translate(-50%,-50%) scale(.87)}.pet-card:hover .pet-illustration{transform:translate(-50%,-54%) scale(.87)}}
